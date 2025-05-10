@@ -18,6 +18,9 @@ Each file includes:
 
 You can add folders or tags later for categories like:
 - `arrays/`
+- `strings/`
+- `hashmaps/`
+- `2pointers/`
 - `dp/` (Dynamic Programming)
 - `graphs/`
 - `greedy/`
