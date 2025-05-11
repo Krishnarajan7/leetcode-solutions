@@ -21,6 +21,7 @@ You can add folders or tags later for categories like:
 - `strings/`
 - `hashmaps/`
 - `2pointers/`
+- `slidingwindow/`
 - `dp/` (Dynamic Programming)
 - `graphs/`
 - `greedy/`
